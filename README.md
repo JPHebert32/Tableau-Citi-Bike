@@ -1,6 +1,6 @@
 # Tableau-Challenge
 
-Link to Tableau Workbook
+Link to Tableau Workbook <br />
 https://public.tableau.com/profile/jp.hebert#!/vizhome/CitiBikeYOY/Dashboard2?publish=yes
 
 The two phenomena I explored was, Rider Type, and Gender. The rider type phenomena shows the different usage between short term riders (1 or 3 day passes),
